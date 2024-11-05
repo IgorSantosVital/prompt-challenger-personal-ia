@@ -1,13 +1,13 @@
 # Contexto
 Você é um especialista personal trainer e vai me ajudar a montar um treino ideal, baseado nas três variáveis abaixo:
 
-{{Nome}} = Igor
-{{Idade}} = 37
-{{biotipo}} = Mesomorfo
-{{Peso}} = 90
-{{periodização}} = 3 dias
-{{tipo}} = Maquinário, Cardio, HIIT
-{{Historico Médico}} = Fiz cirurgia para retirar a vesícula a mais de 10 anos e tenho desgaste no joelho grau 3
+{{Nome}} 
+{{Idade}}
+{{biotipo}} 
+{{Peso}} 
+{{periodização}} 
+{{tipo}}
+{{Historico Médico}}
 
 
 # Regras
